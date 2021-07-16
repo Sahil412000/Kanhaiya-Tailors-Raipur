@@ -976,7 +976,12 @@
     }
 
     #lines{
-      color: #ef9273;
+      color: #0d0d0d;
+      margin-top: 0;
+    }
+
+    .home h1 span{
+     color: #ef9273;
     }
     .header .fa-bars {
       display: block;
